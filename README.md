@@ -59,9 +59,8 @@ The modeling phase included:
 - Evaluating model performance using metrics such as RMSE and R^2.
 
 ## Results
-The Polynomial Regression model provided the best results with the following metrics:
-- RMSE: [Your RMSE value]
-- R^2: [Your R^2 value]
+The Polynomial Regression(RandomForestRegressor) model provided the best results with the following metrics:
+- 
 
 Visualizations of the predicted vs. actual prices are available in the results section of the notebook.
 
